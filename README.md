@@ -1,2 +1,2 @@
 # MiPrimerRepositorio
-este repositorio es una prueba
+Este repositorio es una prueba
